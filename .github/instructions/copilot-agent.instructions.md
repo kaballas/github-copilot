@@ -1,5 +1,5 @@
 ---
-# applyTo: '**'
+applyTo: '**'
 ---
 # Copilot Agent Instructions
 

@@ -1,5 +1,5 @@
 ---
-# applyTo: '**'
+applyTo: '**'
 description: 'Prevents unauthorized direction changes by requiring user approval before deviating from original requirements.'
 ---
 
